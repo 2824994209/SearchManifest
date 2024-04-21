@@ -1,8 +1,11 @@
 # 游戏清单
+## 使用手册
+https://www.yuque.com/yuqueyonghuzj6c0w/sdu2b4/hx7gx4vv3b8w89k4?singleDoc# 《steamtools使用》
+
 ## 获取链接 
 [搜索游戏](https://github.com/pjy612/SteamManifestCache/discussions/categories/share)
 
-## 使用命令
+## 1.py使用方法
 ::: tip 介绍
 1. 1.py 游戏ID 密钥列表 zip路径; <br>
 2. 有多个密钥列表用空格隔开; <br>

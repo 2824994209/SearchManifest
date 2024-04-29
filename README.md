@@ -7,5 +7,15 @@
 <p>添加了call_rewrite_file.py文件  调用rewrite.py，将获取的清单信息全部处理</p>
 <p>添加了delete_error_dir.sh文件 这个是shell脚本，将有问题的清单目录删除， 这个就是前面说的zip的问题。</p>
 <p>最后处理效果<p>
-## 效果
+# map
+
+微信小程序，根据百度地图的api来获取地址信息
+
+### 效果如下：
+
  ![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)
+ ![image](public/image/20190528172120623.png)
+
+### 其具体情况可看博客：https://blog.csdn.net/qq_41638795/article/details/90639496
+
+

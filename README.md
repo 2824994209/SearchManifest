@@ -8,7 +8,13 @@
 <p>添加了delete_error_dir.sh文件 这个是shell脚本，将有问题的清单目录删除， 这个就是前面说的zip的问题。</p>
 <p>最后处理效果<p>
  效果如下：
- ![image](./final_effect.png)
+ # map
 
+微信小程序，根据百度地图的api来获取地址信息
+
+### 效果如下：
+
+ ![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)
+ ![image](./final_effect.png)
 
 

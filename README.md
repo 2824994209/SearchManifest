@@ -8,4 +8,4 @@
 <p>添加了delete_error_dir.sh文件 这个是shell脚本，将有问题的清单目录删除， 这个就是前面说的zip的问题。</p>
 <p>最后处理效果<p>
 ## 效果
-![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)
+ ![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)

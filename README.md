@@ -7,4 +7,4 @@
 <p>添加了call_rewrite_file.py文件  调用rewrite.py，将获取的清单信息全部处理</p>
 <p>添加了delete_error_dir.sh文件 这个是shell脚本，将有问题的清单目录删除， 这个就是前面说的zip的问题。</p>
 <p>最后处理效果<p>
-![本地路径](./final_effect.png "相对路径演示")
+![image](final_effect.png)

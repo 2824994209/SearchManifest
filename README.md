@@ -14,7 +14,6 @@
 
 ### 效果如下：
 
- ![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)
  ![image](./final_effect.png)
 
 

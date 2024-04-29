@@ -7,5 +7,5 @@
 <p>添加了call_rewrite_file.py文件  调用rewrite.py，将获取的清单信息全部处理</p>
 <p>添加了delete_error_dir.sh文件 这个是shell脚本，将有问题的清单目录删除， 这个就是前面说的zip的问题。</p>
 <p>最后处理效果<p>
-![image](https://github.com/2824994209/SearchManifest/blob/v1/final_effect.png)
+## 效果
 ![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)

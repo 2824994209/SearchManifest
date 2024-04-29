@@ -6,4 +6,4 @@
 <p>添加了get_all_manifest_txt.py文件 获取所有清单信息并保存，</p>
 <p>添加了call_rewrite_file.py文件  调用rewrite.py，将获取的清单信息全部处理</p>
 <p>添加了delete_error_dir.sh文件 这个是shell脚本，将有问题的清单目录删除， 这个就是前面说的zip的问题。</p>
-最后处理效果
+<p>最后处理效果<p>
